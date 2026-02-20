@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         int number;
-        Console.Write("Введите число: ");
+        Console.Write("Введите числ123123о: ");
         number = Convert.ToInt32(Console.ReadLine());
 
         if (number % 3 == 0) {
