@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stud\\Downloads\\GitPortable\\Data\\home\\GorgeousRepo111\\ConsoleApp1.csproj": {}
+    "E:\\25-26\\GitPortable\\Data\\home\\GorgeousRepo1232\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stud\\Downloads\\GitPortable\\Data\\home\\GorgeousRepo111\\ConsoleApp1.csproj": {
+    "E:\\25-26\\GitPortable\\Data\\home\\GorgeousRepo1232\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stud\\Downloads\\GitPortable\\Data\\home\\GorgeousRepo111\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\25-26\\GitPortable\\Data\\home\\GorgeousRepo1232\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\stud\\Downloads\\GitPortable\\Data\\home\\GorgeousRepo111\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\stud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stud\\Downloads\\GitPortable\\Data\\home\\GorgeousRepo111\\obj\\",
+        "projectPath": "E:\\25-26\\GitPortable\\Data\\home\\GorgeousRepo1232\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\STUD\\.nuget\\packages\\",
+        "outputPath": "E:\\25-26\\GitPortable\\Data\\home\\GorgeousRepo1232\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\stud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\STUD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,13 +39,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.100"
+        }
       },
       "frameworks": {
         "net7.0": {
@@ -61,30 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
