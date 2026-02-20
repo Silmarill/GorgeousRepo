@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Yo22NjUooDXdbeJjv9xMUS8FxhFj57+EqF62KiNuNdLfS7Op3iWFI8gB89lv/MWT53MyGXxo72dmQoAP5VQkKA==",
+  "dgSpecHash": "QtPsaKi8xUs=",
   "success": true,
-  "projectFilePath": "D:\\work\\prog\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\stud\\Downloads\\GitPortable\\Data\\home\\GorgeousRepo\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\stud\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\stud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\stud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

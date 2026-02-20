@@ -8,7 +8,7 @@ class Program
         Console.Write("Введите число: ");
         number = Convert.ToInt32(Console.ReadLine());
 
-        if (number % 2 == 0) {
+        if (number % 9 == 0) {
             Console.WriteLine($"{number} - четное число.");
         } else {
             Console.WriteLine($"{number} - нечётное число.");
